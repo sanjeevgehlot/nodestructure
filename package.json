@@ -15,7 +15,7 @@
     "cookie-parser": "~1.4.3",
     "cryptlib": "^1.0.3",
     "crypto-lib": "^0.2.7",
-    "debug": "~2.6.3",
+    "debug": "~2.6.9",
     "express": "~4.15.2",
     "express-myconnection": "*",
     "fs": "0.0.1-security",
